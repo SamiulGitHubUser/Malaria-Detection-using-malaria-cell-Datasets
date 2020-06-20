@@ -16,6 +16,7 @@ to a conventional light microscope. Giemsa-stained thin blood smear slides from 
 were collected and photographed at Chittagong Medical College Hospital, Bangladesh.
 
 The dataset contains 2 folders
-    * Infected
-    * Uninfected
+    **Infected
+    **Uninfected
+
 And a total of 27,558 images.
