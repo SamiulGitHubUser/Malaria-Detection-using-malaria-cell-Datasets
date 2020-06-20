@@ -2,8 +2,11 @@
 Malaria infected or uninfected detector with Convolutional Neural Network(CNN).
 
 Source of malaria-cell image datasets:
+
 https://ceb.nlm.nih.gov/repositories/malaria-datasets/
+
 https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+
 https://www.tensorflow.org/datasets/catalog/malaria
 
 Malaria Datasets published on National Library of Medicine(NLM).segmented cells from the thin blood smear slide images from the
