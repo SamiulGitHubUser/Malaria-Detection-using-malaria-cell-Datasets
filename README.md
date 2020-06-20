@@ -15,8 +15,8 @@ accuracy. National Library of Medicine (NLM), have developed a mobile applicatio
 to a conventional light microscope. Giemsa-stained thin blood smear slides from 150 P. falciparum-infected and 50 healthy patients
 were collected and photographed at Chittagong Medical College Hospital, Bangladesh.
 
-The dataset contains 2 folders
-    **Infected
-    **Uninfected
+**The dataset contains 2 folders**
+- infected/parasited
+- uninfected
 
 And a total of 27,558 images.
